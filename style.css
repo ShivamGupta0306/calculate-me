@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+html, body{
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Roboto', sans-serif;
+    background-image: url("https://Shivam86041.github.io/calculate-me/bg.jpg");
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0px 3px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.row{
+    margin: 9px ;
+}
+
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    width: 290px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
